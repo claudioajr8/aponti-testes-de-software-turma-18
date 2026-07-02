@@ -293,7 +293,7 @@ No GitHub, os itens marcados com `- [x]` aparecem como concluídos, e os itens c
 | Markdown | Documentação | Básico |
 
 
-# Exercicíos 7
+# Exercicío 7
 
 
 ## 📚 Meu Projeto
@@ -308,7 +308,7 @@ O que significa cada badge?
 🚧 Status → Indica se o projeto está em desenvolvimento, concluído ou outro estado.
 
 
-# Exercicíos 8
+# Exercicío 8
 
 
 # 💡 Inspiração
@@ -318,7 +318,7 @@ O que significa cada badge?
 > — Alan Kay
 
 
-# Exercicíos 9
+# Exercicío 9
 
 
 # 📚 Projeto: Sistema de Cadastro
@@ -401,3 +401,70 @@ Exemplos de comandos Git, Terminal e Python.
 ## 👨‍💻 Autor
 
 Claudio Albuquerque Souza Junior.
+
+# Exercicío 10
+
+# 🚀 Recursos Extras do Markdown
+
+## 1. Texto riscado
+
+~~Este texto foi riscado.~~
+
+---
+
+## 2. Texto destacado com HTML
+
+<mark>Este texto está destacado.</mark>
+
+---
+
+## 3. HTML no Markdown
+
+<p align="center">
+  <b>Bem-vindo ao meu projeto!</b>
+</p>
+
+---
+
+## 4. Imagem clicável
+
+<a href="https://github.com">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="120">
+</a>
+
+Clique na imagem para acessar o GitHub.
+
+---
+
+## 5. Detalhes expansíveis
+
+<details>
+<summary>Clique para ver mais informações</summary>
+
+Este projeto foi desenvolvido para praticar **Git**, **GitHub** e **Markdown**.
+
+</details>
+
+---
+
+## 6. Âncora personalizada
+
+<a id="topo"></a>
+
+[Voltar ao topo](#topo)
+
+---
+
+## 7. Tabela com alinhamento
+
+| Tecnologia | Nível | Status |
+|:-----------|:------:|-------:|
+| Git | Básico | ✅ |
+| GitHub | Básico | ✅ |
+| Markdown | Básico | ✅ |
+
+---
+
+## 8. Badge personalizado
+
+![Projeto](https://img.shields.io/badge/Projeto-Concluído-brightgreen)
