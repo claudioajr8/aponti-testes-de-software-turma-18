@@ -1,5 +1,6 @@
 # Exercício 1
 
+
 ## 👋 Olá, eu sou [claudio]
 
 ### 📖 Sobre mim
@@ -78,7 +79,9 @@ public class Main {
 
 😄 Estou sempre aprendendo coisas novas!
 
+
 # Exercício 2
+
 
 ## 📚 Recursos no README
 
@@ -131,6 +134,7 @@ Se o PDF estiver na pasta `docs`:
 
 
 # Exercício 3
+
 
 ## 📚 Projeto: Sistema de Cadastro
 
@@ -185,7 +189,9 @@ Projeto/
 - GitHub: https://github.com/claudioajr8
 - E-mail: claudio.albuquerquej@ufpe.br
 
+
 # Exercício 4
+
 
 ## 💻 Exemplos de Blocos de Código
 
@@ -258,7 +264,9 @@ print(f"Olá, {claudio}! Bem-vindo ao GitHub.")
 </body>
 </html>
 ```
+
 # Exercício 5
+
 
 ```markdown id="p7m2qd"
 ## ✅ Checklist de Atividades
@@ -272,7 +280,9 @@ print(f"Olá, {claudio}! Bem-vindo ao GitHub.")
 
 No GitHub, os itens marcados com `- [x]` aparecem como concluídos, e os itens com `- [ ]` aparecem como pendentes.
 
+
 # Exercício 6
+
 
 ## 📊 Tecnologias Estudadas
 
@@ -282,7 +292,9 @@ No GitHub, os itens marcados com `- [x]` aparecem como concluídos, e os itens c
 | GitHub | Hospedagem de código | Básico |
 | Markdown | Documentação | Básico |
 
+
 # Exercicíos 7
+
 
 ## 📚 Meu Projeto
 
@@ -295,7 +307,9 @@ O que significa cada badge?
 📄 License → Mostra a licença do projeto.
 🚧 Status → Indica se o projeto está em desenvolvimento, concluído ou outro estado.
 
+
 # Exercicíos 8
+
 
 # 💡 Inspiração
 
@@ -303,7 +317,9 @@ O que significa cada badge?
 >
 > — Alan Kay
 
+
 # Exercicíos 9
+
 
 # 📚 Projeto: Sistema de Cadastro
 
