@@ -1,6 +1,8 @@
-# 👋 Olá, eu sou [claudio]
+# Exercício 1
 
-## 📖 Sobre mim
+## 👋 Olá, eu sou [claudio]
+
+### 📖 Sobre mim
 
 Olá! Meu nome é **[claudio]** e estou aprendendo *GitHub* e **Markdown**. Este repositório foi criado para praticar os recursos da plataforma e melhorar minhas habilidades em desenvolvimento.
 
