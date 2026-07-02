@@ -3,7 +3,7 @@
 O teste de software é a área responsável pela análise da qualidade de um sistema ou programa.
 
 ## 2 - Por que testar é importante para o negócio?
-Para garantir a segurança do projeto
+Para garantir a segurança do projeto.
 
 ## 3 - O que caracteriza um software com qualidade?
 A usabilidade deve ser excelente, permitindo que o cliente ou usuário utilize o sistema de forma simples, intuitiva e sem dificuldades.
