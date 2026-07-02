@@ -78,10 +78,11 @@ public class Main {
 
 😄 Estou sempre aprendendo coisas novas!
 
+# Exercício 2
 
-# 📚 Recursos no README
+## 📚 Recursos no README
 
-## 🌐 Link para um site
+### 🌐 Link para um site
 
 Acesse o site do GitHub:
 https://github.com
