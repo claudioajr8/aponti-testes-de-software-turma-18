@@ -302,3 +302,86 @@ O que significa cada badge?
 > "A melhor maneira de prever o futuro é inventá-lo."
 >
 > — Alan Kay
+
+# Exercicíos 9
+
+# 📚 Projeto: Sistema de Cadastro
+
+## 📑 Índice
+
+- [Objetivo](#-objetivo)
+- [Tecnologias Utilizadas](#-tecnologias-utilizadas)
+- [Estrutura das Pastas](#-estrutura-das-pastas)
+- [Como Executar o Projeto](#-como-executar-o-projeto)
+- [Exemplos de Código](#-exemplos-de-código)
+- [Checklist](#-checklist)
+- [Tecnologias Estudadas](#-tecnologias-estudadas)
+- [Citação](#-citação)
+- [Autor](#-autor)
+
+---
+
+## 🎯 Objetivo
+
+Descrever o objetivo do projeto.
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- Git
+- GitHub
+- Markdown
+
+
+---
+
+## 📁 Estrutura das Pastas
+
+Conteúdo da estrutura do projeto.
+
+---
+
+## ▶️ Como Executar o Projeto
+
+Instruções para executar o projeto.
+
+---
+
+## 💻 Exemplos de Código
+
+Exemplos de comandos Git, Terminal e Python.
+
+---
+
+## ✅ Checklist
+
+- [x] Criar repositório
+- [x] Adicionar README
+- [x] Inserir imagem
+- [x] Inserir PDF
+- [x] Finalizar documentação
+
+---
+
+## 📊 Tecnologias Estudadas
+
+| Tecnologia | Finalidade | Nível |
+|------------|------------|-------|
+| Git | Controle de versão | Básico |
+| GitHub | Hospedagem de código | Básico |
+| Markdown | Documentação | Básico |
+
+---
+
+## 💬 Citação
+
+> "Programas devem ser escritos para pessoas lerem e apenas incidentalmente para máquinas executarem."
+>
+> — Harold Abelson
+
+---
+
+## 👨‍💻 Autor
+
+Claudio Albuquerque Souza Junior
