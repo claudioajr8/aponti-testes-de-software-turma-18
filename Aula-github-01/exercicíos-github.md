@@ -184,3 +184,77 @@ Projeto/
 
 - GitHub: https://github.com/claudioajr8
 - E-mail: claudio.albuquerquej@ufpe.br
+
+# Exercício 4
+
+## 💻 Exemplos de Blocos de Código
+
+### 📌 Comandos Git
+
+```bash
+# Clonar um repositório
+git clone https://github.com/seuusuario/seuprojeto.git
+
+# Verificar o status
+git status
+
+# Adicionar arquivos
+git add .
+
+# Criar um commit
+git commit -m "Primeiro commit"
+
+# Enviar para o GitHub
+git push origin main
+```
+
+---
+
+## 🖥️ Comandos do Terminal
+
+```bash
+# Entrar em uma pasta
+cd projeto
+
+# Listar arquivos
+ls
+
+# Criar uma nova pasta
+mkdir documentos
+
+# Criar um arquivo
+touch README.md
+```
+
+> **No Windows (Prompt de Comando):**
+>
+> ```cmd
+> dir
+> mkdir documentos
+> cd documentos
+> ```
+
+---
+
+## 🐍 Código em Python
+
+```python
+nome = input("claudio: ")
+print(f"Olá, {claudio}! Bem-vindo ao GitHub.")
+```
+
+---
+
+## 🌐 Código em HTML
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Meu Projeto</title>
+</head>
+<body>
+    <h1>Olá, GitHub!</h1>
+</body>
+</html>
+```
