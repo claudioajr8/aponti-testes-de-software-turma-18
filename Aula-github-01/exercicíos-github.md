@@ -75,3 +75,52 @@ public class Main {
 ### ✨ Obrigado por visitar meu perfil!
 
 😄 Estou sempre aprendendo coisas novas!
+
+# 📚 Recursos no README
+
+## 🌐 Link para um site
+
+Acesse o site do GitHub:
+https://github.com
+
+Ou usando texto clicável:
+
+[GitHub](https://github.com)
+
+---
+
+## 📄 Link para outro arquivo do projeto
+
+Se você tiver um arquivo chamado `sobre.md` na pasta do projeto:
+
+[Sobre o projeto](sobre.md)
+
+Ou, se estiver dentro de uma pasta:
+
+[Manual](docs/manual.md)
+
+---
+
+## 🖼️ Inserindo uma imagem
+
+Se a imagem estiver na pasta `imagens` do projeto:
+
+![Logo do Projeto](imagens/logo.png)
+
+Também é possível usar uma imagem da internet:
+
+![Logo do GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
+---
+
+## 📑 Link para um arquivo PDF
+
+Se o PDF estiver na pasta `docs`:
+
+[Abrir o PDF](docs/manual.pdf)
+
+---
+
+## 🎞️ Inserindo um GIF (opcional)
+
+![GIF de programação](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
