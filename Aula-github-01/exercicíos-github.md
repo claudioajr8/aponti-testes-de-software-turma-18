@@ -258,3 +258,30 @@ print(f"Olá, {claudio}! Bem-vindo ao GitHub.")
 </body>
 </html>
 ```
+# Exercício 5
+
+Você pode adicionar a seguinte seção ao seu **README.md** utilizando **checkboxes** do Markdown.
+
+```markdown id="f4k8nz"
+## ✅ Checklist de Atividades
+
+- [x] Criar repositório
+- [x] Adicionar README
+- [x] Inserir imagem
+- [x] Inserir PDF
+- [x] Finalizar documentação
+```
+
+Se as atividades ainda não estiverem concluídas, basta deixar os espaços em branco:
+
+```markdown id="p7m2qd"
+## ✅ Checklist de Atividades
+
+- [ ] Criar repositório
+- [ ] Adicionar README
+- [ ] Inserir imagem
+- [ ] Inserir PDF
+- [ ] Finalizar documentação
+```
+
+No GitHub, os itens marcados com `- [x]` aparecem como concluídos, e os itens com `- [ ]` aparecem como pendentes.
