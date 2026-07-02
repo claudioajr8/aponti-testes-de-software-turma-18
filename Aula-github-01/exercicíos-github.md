@@ -271,3 +271,16 @@ print(f"Olá, {claudio}! Bem-vindo ao GitHub.")
 ```
 
 No GitHub, os itens marcados com `- [x]` aparecem como concluídos, e os itens com `- [ ]` aparecem como pendentes.
+
+# Exercício 6
+
+# 📊 Tecnologias Estudadas
+
+| Tecnologia | Finalidade | Nível de conhecimento |
+|------------|------------|-----------------------|
+| Git | Controle de versão | Básico |
+| GitHub | Hospedagem de código | Básico |
+| Markdown | Documentação | Básico |
+| HTML | Estrutura de páginas web | Básico |
+| CSS | Estilização de páginas | Básico |
+| JavaScript | Interatividade em páginas web | Básico |
