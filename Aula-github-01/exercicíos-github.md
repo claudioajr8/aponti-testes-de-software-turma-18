@@ -132,9 +132,9 @@ Se o PDF estiver na pasta `docs`:
 
 # Exercício 3
 
-# 📚 Projeto: Sistema de Cadastro
+## 📚 Projeto: Sistema de Cadastro
 
-## 🎯 Objetivo
+### 🎯 Objetivo
 
 Este projeto foi desenvolvido com o objetivo de praticar o uso do **Git**, **GitHub** e da linguagem **Markdown**, organizando um repositório de forma clara e profissional.
 
@@ -183,7 +183,7 @@ Projeto/
 
 ## 👨‍💻 Autor
 
-**Seu Nome**
+**Claudio Albuquerque Souza Junior**
 
 - GitHub: https://github.com/seuusuario
-- E-mail: seuemail@exemplo.com
+- E-mail: claudio.albuquerquej@ufpe.br
