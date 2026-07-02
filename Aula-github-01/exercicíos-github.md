@@ -142,9 +142,6 @@ Este projeto foi desenvolvido com o objetivo de praticar o uso do **Git**, **Git
 
 ## 🛠️ Tecnologias utilizadas
 
-- HTML5
-- CSS3
-- JavaScript
 - Git
 - GitHub
 - Markdown
