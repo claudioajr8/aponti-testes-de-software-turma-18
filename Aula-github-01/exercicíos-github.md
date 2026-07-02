@@ -128,3 +128,62 @@ Se o PDF estiver na pasta `docs`:
 ## 🎞️ Inserindo um GIF (opcional)
 
 ![GIF de programação](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+
+
+# Exercício 3
+
+# 📚 Projeto: Sistema de Cadastro
+
+## 🎯 Objetivo
+
+Este projeto foi desenvolvido com o objetivo de praticar o uso do **Git**, **GitHub** e da linguagem **Markdown**, organizando um repositório de forma clara e profissional.
+
+---
+
+## 🛠️ Tecnologias utilizadas
+
+- HTML5
+- CSS3
+- JavaScript
+- Git
+- GitHub
+- Markdown
+
+---
+
+## 📁 Estrutura das pastas
+
+```text
+Projeto/
+│
+├── index.html
+├── style.css
+├── script.js
+├── README.md
+├── docs/
+│   └── manual.pdf
+└── imagens/
+    └── logo.png
+```
+
+---
+
+## ▶️ Como executar o projeto
+
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/seuusuario/seuprojeto.git
+   ```
+
+2. Abra a pasta do projeto.
+
+3. Execute o arquivo `index.html` em seu navegador.
+
+---
+
+## 👨‍💻 Autor
+
+**Seu Nome**
+
+- GitHub: https://github.com/seuusuario
+- E-mail: seuemail@exemplo.com
