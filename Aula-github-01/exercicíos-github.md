@@ -296,7 +296,7 @@ O que significa cada badge?
 
 # Exercicío 8
 
-# 💡 Inspiração
+## 💡 Inspiração
 
 > "A melhor maneira de prever o futuro é inventá-lo."
 >
@@ -304,7 +304,7 @@ O que significa cada badge?
 
 # Exercicío 9
 
-# 📚 Projeto: Sistema de Cadastro
+## 📚 Projeto: Sistema de Cadastro
 
 ## 📑 Índice
 
@@ -387,21 +387,21 @@ Claudio Albuquerque Souza Junior.
 
 # Exercicío 10
 
-# 🚀 Recursos Extras do Markdown
+## 🚀 Recursos Extras do Markdown
 
-## 1. Texto riscado
+### A. Texto riscado
 
 ~~Este texto foi riscado.~~
 
 ---
 
-## 2. Texto destacado com HTML
+### B. Texto destacado com HTML
 
 <mark>Este texto está destacado.</mark>
 
 ---
 
-## 3. HTML no Markdown
+### C. HTML no Markdown
 
 <p align="center">
   <b>Bem-vindo ao meu projeto!</b>
@@ -409,7 +409,7 @@ Claudio Albuquerque Souza Junior.
 
 ---
 
-## 4. Imagem clicável
+### D. Imagem clicável
 
 <a href="https://github.com">
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="120">
@@ -419,7 +419,7 @@ Clique na imagem para acessar o GitHub.
 
 ---
 
-## 5. Detalhes expansíveis
+### E. Detalhes expansíveis
 
 <details>
 <summary>Clique para ver mais informações</summary>
@@ -430,7 +430,7 @@ Este projeto foi desenvolvido para praticar **Git**, **GitHub** e **Markdown**.
 
 ---
 
-## 6. Âncora personalizada
+### F. Âncora personalizada
 
 <a id="topo"></a>
 
@@ -438,7 +438,7 @@ Este projeto foi desenvolvido para praticar **Git**, **GitHub** e **Markdown**.
 
 ---
 
-## 7. Tabela com alinhamento
+### G. Tabela com alinhamento
 
 | Tecnologia | Nível | Status |
 |:-----------|:------:|-------:|
@@ -448,6 +448,6 @@ Este projeto foi desenvolvido para praticar **Git**, **GitHub** e **Markdown**.
 
 ---
 
-## 8. Badge personalizado
+### H. Badge personalizado
 
 ![Projeto](https://img.shields.io/badge/Projeto-Concluído-brightgreen)
