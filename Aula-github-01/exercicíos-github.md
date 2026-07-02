@@ -384,4 +384,4 @@ Exemplos de comandos Git, Terminal e Python.
 
 ## 👨‍💻 Autor
 
-Claudio Albuquerque Souza Junior
+Claudio Albuquerque Souza Junior.
