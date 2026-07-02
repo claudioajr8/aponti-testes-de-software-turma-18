@@ -284,8 +284,21 @@ No GitHub, os itens marcados com `- [x]` aparecem como concluídos, e os itens c
 
 # Exercicíos 7
 
-# 📚 Meu Projeto
+## 📚 Meu Projeto
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/seuusuario/seuprojeto)
 ![GitHub license](https://img.shields.io/github/license/seuusuario/seuprojeto)
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
+
+O que significa cada badge?
+📦 Repo Size → Mostra o tamanho do repositório.
+📄 License → Mostra a licença do projeto.
+🚧 Status → Indica se o projeto está em desenvolvimento, concluído ou outro estado.
+
+# Exercicíos 8
+
+# 💡 Inspiração
+
+> "A melhor maneira de prever o futuro é inventá-lo."
+>
+> — Alan Kay
