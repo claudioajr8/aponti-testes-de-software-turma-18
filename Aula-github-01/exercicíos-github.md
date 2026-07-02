@@ -185,5 +185,5 @@ Projeto/
 
 **Claudio Albuquerque Souza Junior**
 
-- GitHub: https://github.com/seuusuario
+- GitHub: https://github.com/claudioajr8
 - E-mail: claudio.albuquerquej@ufpe.br
